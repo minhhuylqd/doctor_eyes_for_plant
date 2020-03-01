@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pepperbell___Bacterial_spot</folder>
+	<filename>2114.jpg</filename>
+	<path>/home/huy/Project/DoctorEyes/images/Pepperbell___Bacterial_spot/2114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pepperbell_bacterial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>7</ymin>
+			<xmax>241</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

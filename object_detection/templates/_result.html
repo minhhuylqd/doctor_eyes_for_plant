@@ -1,0 +1,49 @@
+
+{% block content %}
+<head>
+<h1 style="color: darkgreen; font-weight: bold; font-size: 50px;   ", class="head text-center"> DOCTOR'S EYES FOR PLANT </h1>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+ 
+</head>
+<style>
+.border {
+    border-style: solid;
+    border-width: 5px; 
+    border-color: green;
+}
+.background {
+    background-color: lightgreen;
+    background-size: 1000px;
+    background-position: 
+}
+.img {
+    align-self: center;
+}
+.container {
+  justify-items: center;
+}
+</style>
+<body>
+<title> Detecting Result </title>
+<div class="container; background">
+    <div class="row">
+        <div class="col-8 col-sm-6" >
+                <img id='upload-img' src="{{ plant_img }}" class="img-rounded test-image center-block border"> </img>
+        </div> 
+        <div class="col-8 col-sm-6">
+                <h2 style="text-align: justify" id="image-description">  {{ plant name }} </h2>
+                <h2 style="text-align: justify" id="image-description"> Disease: {{ disease_name }} </h2>
+                <h2 style="text-align: justify" id="image-description"> Treatment: </h2>
+                <p style="text-align: justify" id="image-description">  {{ treatment }} </p>
+                <!-- <h4 style="text-align: justify" id="image-description"> Suggested Fertilizer </h4>
+                <p style="text-align: justify" id="image-description"> {{ fertilizer }} </p> -->
+        <h4> <a href="/home"> Check another plant </a> </h4> 
+        </div>
+    </div>
+</div>
+
+   
+</body>
+{% endblock %} 

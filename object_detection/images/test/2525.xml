@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pepperbell___healthy</folder>
+	<filename>2525.jpg</filename>
+	<path>/home/huy/Project/DoctorEyes/images/Pepperbell___healthy/2525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pepperbell_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>11</ymin>
+			<xmax>232</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

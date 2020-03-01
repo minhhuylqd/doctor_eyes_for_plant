@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'apple_black_rot'
+}
+
+item {
+  id: 2
+  name: 'apple_healthy'
+}
+
+item {
+  id: 3
+  name: 'grape_black_rot'
+}
+
+item {
+  id: 4
+  name: 'grape_healthy'
+}
+
+item {
+  id: 5
+  name: 'pepperbell_bacterial'
+}
+
+item {
+  id: 6
+  name: 'pepperbell_healthy'
+}

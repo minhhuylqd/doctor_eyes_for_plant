@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>213.JPG</filename>
+	<path>D:\labelimg\images\213.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple_black_rot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>17</ymin>
+			<xmax>230</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

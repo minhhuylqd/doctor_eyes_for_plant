@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1092.JPG</filename>
+	<path>/home/huy/Project/DoctorEyes/huyendo/images/1092.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape_black_rot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>11</ymin>
+			<xmax>250</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

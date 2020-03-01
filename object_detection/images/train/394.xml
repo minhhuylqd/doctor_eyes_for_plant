@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>394.JPG</filename>
+	<path>D:\labelimg\images\394.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple_black_rot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>7</ymin>
+			<xmax>252</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

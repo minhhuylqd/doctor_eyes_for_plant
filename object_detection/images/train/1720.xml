@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Grape___healthy</folder>
+	<filename>1720.jpg</filename>
+	<path>/home/huy/Project/DoctorEyes/images/Grape___healthy/1720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>32</ymin>
+			<xmax>238</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

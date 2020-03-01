@@ -1,0 +1,6 @@
+flask
+tensorflow
+keras
+numpy
+werkzeug
+opencv-python
